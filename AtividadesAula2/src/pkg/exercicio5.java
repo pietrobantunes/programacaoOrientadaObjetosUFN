@@ -35,5 +35,8 @@ public class exercicio5 {
 		if(i >= 1) {
 			System.out.println("Fatorial do número inteiro: "+i+"");
 		}
+		
+		sc.close();
 	}
+
 }
